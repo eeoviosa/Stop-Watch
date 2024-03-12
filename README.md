@@ -1,1 +1,2 @@
-Code is running on the port labeled desktop(6080), if port not shown add manually. Password is "vscode".
+# Stop-Watch
+The code will run on a port labeled desktop(6080). If the port is not found, add it manually. The password is "vscode".
